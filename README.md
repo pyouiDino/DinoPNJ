@@ -6,7 +6,7 @@ Plugin Nova Life permettant au staff de créer des PNJ : un PNJ immobile posé �
 ---
 
 
-1\. Commandes
+## 1\. Commandes
 
 ## `/pnjpanel` — Ouvrir le panel de gestion
 
@@ -59,14 +59,10 @@ Liste tous les PNJ existants (ID, nom, état :  actif ou  désactivé). Cliquer 
 | Supprimer | Après confirmation, supprime le PNJ définitivement ; son ID n'est jamais réutilisé |
 
 Les quatre commandes nécessitent que le staff ait un **AdminLevel** supérieur ou égal à `3` (valeur fixe).\
-\
-
 
 ---
 
-## \
-\
-2\. Configuration
+## 2\. Configuration
 
 dinoPNJ n'a pas de fichier de configuration : les réglages ci-dessous sont fixes. Un dossier `dinoPNJ/` est créé automatiquement à côté du plugin, avec `dinoPNJ_data.json` (les PNJ sauvegardés) et `dinoPNJ_log.txt` (le journal).
 
@@ -78,26 +74,19 @@ dinoPNJ n'a pas de fichier de configuration : les réglages ci-dessous sont fixe
 | Mise en veille des PNJ mobiles | `120` m / `100` m | Un PNJ s'endort quand aucun joueur n'est à moins de 120 m (aucun calcul) et se réveille dès qu'un joueur passe sous 100 m, replacé où il serait |
 | Arrêt rejoué maximum | `4` secondes | Durée max d'une pause de votre parcours |
 
-\
-
-
 ---
 
-## \
-3\. Dépendance obligatoire
+## 3\. Dépendance obligatoire
 
 ### ModKit
 
 dinoPNJ nécessite **ModKit** pour fonctionner.
 
-Téléchargement de ModKit : <https://plugins.modnl.me/plugins>\
-\
-
+Téléchargement de ModKit : <https://plugins.modnl.me/plugins>
 
 ---
 
-## \
-4\. Support
+## 4\. Support
 
 Si vous avez des questions ou rencontrez un problème avec le plugin, vous pouvez contacter :
 
