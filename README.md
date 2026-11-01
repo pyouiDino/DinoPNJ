@@ -1,0 +1,2 @@
+# DinoPNJ
+plugin nova life
