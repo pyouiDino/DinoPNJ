@@ -8,7 +8,7 @@ Plugin Nova Life permettant au staff de créer des PNJ : un PNJ immobile posé �
 
 ## 1\. Commandes
 
-## `/pnjpanel` — Ouvrir le panel de gestion
+### `/pnjpanel` — Ouvrir le panel de gestion
 
 ```
 /pnjpanel
