@@ -2,9 +2,7 @@
 
 Plugin Nova Life permettant au staff de créer des PNJ : un PNJ immobile posé à votre position, ou un PNJ mobile qui rejoue à l'identique un parcours que vous avez enregistré. Son apparence se choisit par catégories ou par tenue spéciale, et les PNJ sont sauvegardés à chaque redémarrage.
 
-
 ---
-
 
 ## 1\. Commandes
 
