@@ -58,7 +58,7 @@ Liste tous les PNJ existants (ID, nom, état :  actif ou  désactivé). Cliquer 
 | Téléporter au PNJ | Vous téléporte à lui (impossible s'il est désactivé) |
 | Supprimer | Après confirmation, supprime le PNJ définitivement ; son ID n'est jamais réutilisé |
 
-Les quatre commandes nécessitent que le staff ait un **AdminLevel** supérieur ou égal à `3` (valeur fixe).\
+Les quatre commandes nécessitent que le staff ait un **AdminLevel** supérieur ou égal à `3` (valeur fixe).
 
 ---
 
